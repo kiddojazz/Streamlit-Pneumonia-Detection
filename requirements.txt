@@ -1,0 +1,8 @@
+streamlit
+tensorflow
+keras
+numpy
+opencv
+PIL
+base64
+io
